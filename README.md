@@ -11,3 +11,8 @@
 </table> 
 
 </div>
+
+<video controls width="640" height="360">
+        <source src="caminho/do/video.mp4" type="video/mp4">
+        Seu navegador não suporta o elemento de vídeo.
+    </video>
